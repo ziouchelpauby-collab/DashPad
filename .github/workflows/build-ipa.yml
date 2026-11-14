@@ -1,4 +1,4 @@
-﻿name: Build DashPad IPA
+name: Build DashPad IPA
 on:
  workflow_dispatch:
 jobs:
